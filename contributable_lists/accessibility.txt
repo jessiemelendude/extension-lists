@@ -12,3 +12,4 @@ feepmdlmhplaojabeoecaobfmibooaid // OrbitNote
 kohfgcgbkjodfcfkcackpagifgbcmimk // NaturalReader - AI Text to Speech
 jnchlbdjpliafjnppcmhfjogpajfejjl // Herald Beta: Text to Speech Reader
 pnfonnnmfjnpfgagnklfaccicnnjcdkm // Read Aloud: A Text to Speech Voice Reader
+aapbdbdomjkkjkaonfhkkikfgjllcleb // Google Translate (Chrome Add-ons)
